@@ -39,7 +39,6 @@
 ![Git & GitHub](https://img.shields.io/badge/-Git%20&%20GitHub-05122A?style=flat)&nbsp;
 ![Android development](https://img.shields.io/badge/-Android%20development-05122A?style=flat&logo=OOP)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=OOP)&nbsp;
-
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=OOP)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=OOP)&nbsp;
 ![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=OOP)&nbsp;
