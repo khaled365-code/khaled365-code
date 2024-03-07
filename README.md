@@ -11,7 +11,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 👨‍💻 Welcome to my GitHub! I'm a Flutter developer passionate about creating engaging cross-platform applications. Excited to collaborate, innovate, and learn -- from the amazing community here. Let's code and build great things together!
+- Welcome to my GitHub! I'm a Flutter developer passionate about creating engaging cross-platform applications. Excited to collaborate, innovate, and learn 
+- from the amazing community here. Let's code and build great things together!
 
 
 
