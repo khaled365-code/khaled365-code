@@ -7,7 +7,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Think%20twice%20code%20once&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 - Welcome to my GitHub! I'm a Flutter developer passionate about creating engaging cross-platform applications. Excited to collaborate, innovate, and learn from the amazing community here. Let's code and build great things together!
@@ -38,6 +38,8 @@
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-05122A?style=flat)&nbsp;
 ![Git & GitHub](https://img.shields.io/badge/-Git%20&%20GitHub-05122A?style=flat)&nbsp;
 ![Android development](https://img.shields.io/badge/-Android%20development-05122A?style=flat&logo=OOP)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=OOP)&nbsp;
+
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=OOP)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=OOP)&nbsp;
 ![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=OOP)&nbsp;
@@ -46,16 +48,16 @@
 ![Software Analysis](https://img.shields.io/badge/-Software%20Analysis-05122A?style=flat&logo=OOP)&nbsp;
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miralyaser9&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled365-code&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
 <br clear="left">
 
-<a href="https://komarev.com/ghpvc/?username=miralyaser9&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=miralyaser9&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=khaled365-code&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=khaled365-code&style=for-the-badge">
 </a>
 
 <h3 align="left">🔥   My Status :</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=miralyaser9&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=khaled365-code&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
