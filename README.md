@@ -36,7 +36,7 @@ Computer Science graduate with a passion for programming and problem-solving
 </div>
 <be>
 
-## 💜 Views and Followers:
+## ❤️ Views and Followers:
 
 <a href="https://github.com/khaled365-code/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=khaled365-code">
@@ -45,5 +45,4 @@ Computer Science graduate with a passion for programming and problem-solving
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
 </h3>
-
 <br/>
