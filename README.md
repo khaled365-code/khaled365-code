@@ -33,17 +33,6 @@ Computer Science graduate with a passion for programming and problem-solving
 ![Software Analysis](https://img.shields.io/badge/-Software%20Analysis-05122A?style=flat&logo=OOP)&nbsp;
 
 ### 🛠 &nbsp;Tech Stack
-    
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled365-code&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-
-<br clear="left">
-
-<a href="https://komarev.com/ghpvc/?username=khaled365-code&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=khaled365-code&style=for-the-badge">
-</a>
 
 <h3 align="left">🔥   My Status :</h3>
 
