@@ -41,7 +41,8 @@ Computer Science graduate with a passion for programming and problem-solving
 <a href="https://github.com/khaled365-code/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=khaled365-code">
 </a>
-<a href="https://github.com/khaled365-code?tab=followers"><img src="https://img.shields.io/github/followers/khaled365-code?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/khaled365-code?tab=followers"><img src="https://img.shields.io/github/followers/khaled365-code?label=Followers&style=social" alt="GitHub Badge">
+</a>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
 </h3>
