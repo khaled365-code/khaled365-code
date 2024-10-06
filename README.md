@@ -1,50 +1,31 @@
-### Hi there 👋
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+I'm Khaled Mohamed Elsaeed, Mobile Apps Developer 
+==============================================================================================================================================
 
-<h3 align="center">
-  Welcome to my profile !
-</h3>
+Computer Science graduate with a passion for programming and problem-solving
+--------------------------------------------------------------
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Think%20twice%20code%20once&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+* 🌍  I'm based in Egypt, Cairo 
+* ✉️  You can contact me at [khaledmokhaled123@gmail.com](khaledmokhaled123@gmail.com)
+* 🧠  I'm learning Everything about \[ Flutter - Software  Engineering \] 
 
-- Welcome to my GitHub! I'm a Flutter developer passionate about creating engaging cross-platform applications. Excited to collaborate, innovate, and learn from the amazing community here. Let's code and build great things together!
+### Skills
 
 
-
-### Connect with Me :
-
-<a href="https://www.linkedin.com/in/khaled-mohamed--658333229/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  
-  <a href="mailto:khaledmokhaled123@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
 ### 🛠 &nbsp;Tech Stack
     
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![Restful APIs](https://img.shields.io/badge/-Restful%20APIs-05122A?style=flat&logo=API)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
-![Cubit](https://img.shields.io/badge/-Cubit-05122A?style=flat)&nbsp;
-![Bloc](https://img.shields.io/badge/-Bloc-05122A?style=flat)&nbsp;
-![MVVM](https://img.shields.io/badge/-MVVM-05122A?style=flat)&nbsp;
-![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-05122A?style=flat)&nbsp;
-![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=OOP)&nbsp;
-![Data Structures & Algorithms](https://img.shields.io/badge/-Data%20Structures%20&%20Algorithms-05122A?style=flat)&nbsp;
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-05122A?style=flat)&nbsp;
-![Git & GitHub](https://img.shields.io/badge/-Git%20&%20GitHub-05122A?style=flat)&nbsp;
-![Android development](https://img.shields.io/badge/-Android%20development-05122A?style=flat&logo=OOP)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=OOP)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=OOP)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=OOP)&nbsp;
-![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=OOP)&nbsp;
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=OOP)&nbsp;
-![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=OOP)&nbsp;
-![Software Analysis](https://img.shields.io/badge/-Software%20Analysis-05122A?style=flat&logo=OOP)&nbsp;
+
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled365-code&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
