@@ -27,8 +27,8 @@ Computer Science graduate with a passion for programming and problem-solving
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="khaled365-code's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khaled365-code&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<a href="https://github.com/khaled365-code/github-readme-stats"><img alt="AmmarAgeeza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmmarAgeeza&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/AmmarAgeeza/github-readme-stats"><img alt="khaled365-code's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled365-code&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/khaled365-code/github-readme-stats"><img alt="AmmarAgeeza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khaled365-code&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/khaled365-code/github-readme-stats"><img alt="khaled365-code's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled365-code&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br>
 <div align="center">
