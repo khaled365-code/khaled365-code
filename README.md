@@ -10,7 +10,7 @@ Computer Science graduate with a passion for programming and problem-solving
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,c++,python" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,python" />
     <img src="https://skillicons.dev/icons?i=github,androidstudio,figma,postman,android" /><br>
 </div>
 
