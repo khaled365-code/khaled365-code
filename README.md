@@ -34,24 +34,7 @@ Computer Science graduate with a passion for programming and problem-solving
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-<br>
-
-## 🤝 Connect With Me:
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/khaled-mohamed--658333229/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-  <a href="mailto:khaledmokhaled123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-</div>
-
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
+<be>
 
 ## 💜 Views and Followers:
 
