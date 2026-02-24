@@ -83,20 +83,25 @@ What distinguishes me is my **strong foundation in computer science**, particula
 
 ---
 
-## 📊 GitHub Stats
+## <p align="center"> Git Activeness </p>
 
+<br/>
+ 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=khaled365-code&show_icons=true&theme=react&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled365-code&layout=compact&theme=react&hide_border=true" />
+<a href="https://github.com/khaled365-code">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khaled365-code&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khaled365-code&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+</a>
 </p>
 
----
+<br/>
 
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/khaledelsaeed22/
 - 📧 Email: khaled.mohamed.dev.tech@gmail.com
 - 💻 GitHub: https://github.com/khaled365-code
+
 
 ---
 
