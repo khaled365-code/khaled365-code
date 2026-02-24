@@ -1,10 +1,10 @@
-# 👋 Hi, I’m Khaled Mohamed  
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+
+# 👋 Hi, I’m Eng Khaled Mohamed  
 ### Mobile Applications Developer (Flutter)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khaled365-code&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/khaled365-code?label=Followers&style=social" />
-</p>
 
 ---
 
