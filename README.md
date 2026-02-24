@@ -69,8 +69,8 @@ What distinguishes me is my **strong foundation in computer science**, particula
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(add your link here)*
-- 📧 Email: *(add your email here)*
+- 💼 LinkedIn: https://www.linkedin.com/in/khaledelsaeed22/
+- 📧 Email: khaled.mohamed.dev.tech@gmail.com
 - 💻 GitHub: https://github.com/khaled365-code
 
 ---
