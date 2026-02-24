@@ -37,29 +37,48 @@ What distinguishes me is my **strong foundation in computer science**, particula
 
 **Mobile Development**
 - Flutter (Android & iOS)
+- Responsive & Adaptive Design
 - State Management: Bloc / Cubit
-- Clean Architecture & Design Patterns
-- REST APIs & Firebase (Auth, Firestore, FCM)
+- GraphQL & REST APIs
+- Supabase
+- Firebase (Auth, Firestore,  Realtime Database, FCM, Firebase Analytics, Crashlytics)
+- CI/CD Pipeline
+- Flutter Testing
+- Flutter Dev Tools
+- Flutter Animations
+- Hive
+- Shared Preferences 
+- Clean Architecture 
+- MVVM
 
-**Programming**
-- Dart, C++, C#
-- Data Structures & Algorithms
+
+**Computer Science**
+- Dart, C++, C#, Python, Kotlin, Java
+- Design Patterns
+- Agile Methodology
 - OOP & SOLID Principles
+- Data Structures & Algorithms
+- Operating Systems
+  
+
+
 
 **Tools & Workflow**
 - Git & GitHub
+- Jira
+- Trello
+- Google Maps
+- Supabase
 - Firebase
-- Android Studio / VS Code
-- Agile & Scrum fundamentals
-
+- Android Studio
+- VS Code
+- Postman 
 ---
 
 ## 📱 Notable Projects
 
 - **MI Card** – Employee benefits mobile application (Published)
-- **Triumph App** – Hotel information and booking application
-- Additional internal and freelance Flutter projects
-
+- **Triumph App** – Hotel information and booking application (Published)
 > More project details are available in my repositories.
 
 ---
@@ -81,4 +100,5 @@ What distinguishes me is my **strong foundation in computer science**, particula
 
 ---
 
-> 💡 *Always interested in building high-quality mobile products and collaborating with teams that value clean code and strong engineering principles.*
+> 💡 *Clean code always looks like it was written by someone who cares.*
+>  Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
