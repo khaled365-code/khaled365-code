@@ -4,9 +4,18 @@
 
 # 👋 Hi, I’m Eng Khaled Mohamed  
 ### Mobile Applications Developer (Flutter)
-
-
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khaled365-code&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/khaled365-code?label=Followers&style=social" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1pyRFtolLHOwOJdJxPHVbcNNn8_gnLFhP" height="200" style="border-radius: 50%;" />
+</p>
 
 ## 🚀 About Me
 
