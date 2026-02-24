@@ -100,5 +100,5 @@ What distinguishes me is my **strong foundation in computer science**, particula
 
 ---
 
-> 💡 *Clean code always looks like it was written by someone who cares.*
->  Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
+<div>> Clean code always looks like it was written by someone who cares </div>
+<div>> Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship </div>
