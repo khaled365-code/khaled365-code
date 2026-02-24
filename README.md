@@ -12,12 +12,18 @@
 </p>
 
 
-
 <p align="center">
   <img width="800" height="400" src="https://drive.google.com/uc?export=view&id=1pyRFtolLHOwOJdJxPHVbcNNn8_gnLFhP" height="200" style="border-radius: 50%;" />
 </p>
 
-## 🚀 About Me
+## Flutter Developer @Egyptian Armed Forces | Coding Instructor @Coding Mind
+
+
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+
+## ***About me ....***
 
 I’m a **Mobile Applications Developer** with over **3 years of professional experience**, specializing in **Flutter** for Android and iOS.
 
