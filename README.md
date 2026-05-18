@@ -12,10 +12,6 @@
 </p>
 
 
-<p align="center">
-  <img width="1000" height="550" src="https://drive.google.com/uc?export=view&id=1pyRFtolLHOwOJdJxPHVbcNNn8_gnLFhP" height="200" style="border-radius: 50%;" />
-</p>
-
 ## Flutter Developer @Petrolife | Coding Instructor 
 
 
